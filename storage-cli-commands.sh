@@ -1,1 +1,1 @@
-add storage 100G
+add storage 100G SSD
